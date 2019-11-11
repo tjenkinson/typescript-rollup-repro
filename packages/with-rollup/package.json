@@ -1,0 +1,16 @@
+{
+  "name": "with-rollup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^1.26.5",
+    "typescript": "^3.7.2"
+  }
+}

@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "rollup": "^1.26.5",
+    "rollup": "tjenkinson/rollup#do-not-bring-in-node-types",
     "typescript": "^3.7.2"
   }
 }
